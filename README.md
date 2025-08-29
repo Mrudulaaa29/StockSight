@@ -65,7 +65,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 Screenshots:
 
-<img width="631" height="543" alt="Screenshot 2025-08-13 180631" src="https://github.com/user-attachments/assets/052291f9-a565-433e-8cfb-866b2704e891" />
+<img width="633" height="541" alt="Screenshot 2025-08-13 180543" src="https://github.com/user-attachments/assets/4b40bbf2-1aa4-42e1-9b5d-4ed8238abd89" />
+
 
 
 <img width="631" height="543" alt="Screenshot 2025-08-13 180631" src="https://github.com/user-attachments/assets/ae83aac0-45f1-492c-ae9a-9070c9e12b75" />
